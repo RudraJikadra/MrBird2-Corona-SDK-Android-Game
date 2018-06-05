@@ -23,3 +23,9 @@ A pretty simple game easy to understand the lua language.
 All the files images, code files are to be kept in the same folder.
 
 ## Screenshots
+![unnamed](https://user-images.githubusercontent.com/15246084/40979525-ae853f14-68f3-11e8-89c7-97e36dbc3064.png)
+![unnamed-1](https://user-images.githubusercontent.com/15246084/40979522-ae441cf0-68f3-11e8-9dfa-6385b57b5953.png)
+![unnamed-2](https://user-images.githubusercontent.com/15246084/40979526-aec5f04a-68f3-11e8-9aec-88ef59e445e4.png)
+![unnamed-3](https://user-images.githubusercontent.com/15246084/40979531-b10c94b2-68f3-11e8-95a8-d47bc80f6a10.png)
+![screen shot 2018-06-05 at 6 38 51 pm](https://user-images.githubusercontent.com/15246084/40979532-b152dc38-68f3-11e8-815f-5bf32f9f0548.png)
+![unnamed-4](https://user-images.githubusercontent.com/15246084/40979535-b1a41fbc-68f3-11e8-8741-ca5d8f3b8338.png)
